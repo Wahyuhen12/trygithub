@@ -1,2 +1,1 @@
-ini saya mencoba untuk membuat file yang saya push ke github
-asdhkjasdhjsad
+ini saya mencoba untuk membuat file yang saya push ke github untuk belajar dengan github
